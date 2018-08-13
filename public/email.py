@@ -53,7 +53,7 @@ class SendEmail:
         self.message.attach(msg)
 
         #添加附件日志
-        self.__addannex(  logs)
+        self.__addannex(logs)
 
 
     #添加头部信息
